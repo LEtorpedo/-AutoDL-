@@ -1,4 +1,4 @@
-# -AutoDL-
+# -CUDA优化矩阵乘法实验-
 1.本项目中的.py文件要求
 numpy，torch，time，matplotlib.pyplot等
 2.本项目中的.cu文件要求
